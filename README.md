@@ -54,3 +54,6 @@ Recommendation
 Streamlit Dashboard
       ↓
 PDF / CSV Report
+
+## DashBoard
+<img width="959" height="542" alt="newdashboard6" src="https://github.com/user-attachments/assets/4c31a64f-3ed2-484a-ab5f-0d514fe33619" />
